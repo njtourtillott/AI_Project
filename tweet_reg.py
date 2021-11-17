@@ -44,7 +44,6 @@ def preprocess_corpus():
 
 def develop_model():
     corpus = preprocess_corpus()
-    corpus.to_csv("corpus.csv")
     train_set, test_set, train_label, test_label = model_selection.train_test_split(corpus["content"], corpus["emission"], test_size=0.2)
 
     tfidf_vect = TfidfVectorizer()
