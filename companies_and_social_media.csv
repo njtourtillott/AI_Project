@@ -5,11 +5,11 @@ CSX Corporation,4120,USA,2013,CSX US,US1264081035,95,A,,Public,AQ*,5268905,30017
 "The Home Depot, Inc.",8526,USA,2013,HD US,US4370761029,99,A-,,Public,AQ*,250224,2529646,"(37.09024, -95.712891)",,homedepot,HomeDepot,homedepot
 Las Vegas Sands Corporation,10494,USA,2013,LVS US,US5178341070,98,A-,,Public,AQ*,225157,821527,"(37.09024, -95.712891)",,las_vegas_sands,LasVegasSands,lasvegassands
 Bank of America,1452,USA,2013,BAC US,US0605051046,98,A,,Public,AQ*,116666,1421829,"(37.09024, -95.712891)",,bankofamerica,BankofAmerica,BankofAmerica
-"American International Group, Inc.",699,USA,2013,AIG US,US0268747849,62,D,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,aigdirect,AIGinsurance,AIGInsurance
+"American International Group, Inc.",699,USA,2013,AIG US,US0268747849,62,D,,Not public,AQ*,,,"(37.09024, -95.712891)",,aigdirect,AIGinsurance,AIGInsurance
 Mondelez International Inc,42037,USA,2013,MDLZ US,,91,B,,Public,AQ*,1075761,954755,"(37.09024, -95.712891)",,mondelez_international,MDLZ,mondelezinternational
 FedEx Corporation,6287,USA,2013,FDX US,US31428X1063,80,B,,Public,AQ*,14602697,959109,"(37.09024, -95.712891)",,fedex,FedEx,FedEx
 Union Pacific Corporation,19845,USA,2013,UNP US,US9078181081,98,B,,Public,AQ*,11595509,407176,"(37.09024, -95.712891)",,uprr,UnionPacific,unionpacific
-Duke Energy Corporation,5052,USA,2013,DUK US,US26441C2044,67,C,,Public,AQ*,123430000,NA,"(37.09024, -95.712891)",,duke_energy,DukeEnergy,Duke Energy
+Duke Energy Corporation,5052,USA,2013,DUK US,US26441C2044,67,C,,Public,AQ*,123430000,,"(37.09024, -95.712891)",,duke_energy,DukeEnergy,Duke Energy
 "Franklin Resources, Inc.",6684,USA,2013,BEN US,US3546131018,86,C,,Public,AQ*,8175,29552,"(37.09024, -95.712891)",,franklintempleton,FTI_Global,franklintempleton
 "Medtronic, Inc.",11651,USA,2013,MDT US,US5850551061,61,D,,Public,AQ*,31460,170685,"(37.09024, -95.712891)",,medtronic,Medtronic,Medtronic
 Kimberly-Clark Corporation,10148,USA,2013,KMB US,US4943681035,72,C,,Public,AQ*,2461675,2967804,"(37.09024, -95.712891)",,kccorp,KCCorp,KimberlyClarkCorp
@@ -43,18 +43,18 @@ Baxter International Inc.,1574,USA,2013,BAX US,US0718131099,82,B,,Public,AQ*,345
 Exxon Mobil Corporation,6136,USA,2013,XOM US,US30231G1022,80,B,,Public,AQ*,1.32E+08,1.40E+07,"(37.09024, -95.712891)",,exxonmobil,exxonmobil,ExxonMobil
 Allstate Corporation,582,USA,2013,ALL US,US0200021014,96,B,,Public,AQ*,40796,150401,"(37.09024, -95.712891)",,allstate,Allstate,Allstate
 Target Corporation,18320,USA,2013,TGT US,US87612E1064,91,B,,Public,AQ*,527047,2489866,"(37.09024, -95.712891)",,target,Target,target 
-"American Electric Power Company, Inc.",689,USA,2013,AEP US,US0255371017,68,D,,Public,AQ*,121927400,NA,"(37.09024, -95.712891)",,aepnews,AEPnews,americanelectricpower 
+"American Electric Power Company, Inc.",689,USA,2013,AEP US,US0255371017,68,D,,Public,AQ*,121927400,,"(37.09024, -95.712891)",,aepnews,AEPnews,americanelectricpower 
 "Automatic Data Processing, Inc.",1203,USA,2013,ADP US,US0530151036,83,C,,Public,AQ*,15500,157100,"(37.09024, -95.712891)",,adp,ADP,AutomaticDataProcessing 
-"MetLife, Inc.",11796,USA,2013,MET US,US59156R1086,92,A-,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,metlife_inc,MetLife,metlife
+"MetLife, Inc.",11796,USA,2013,MET US,US59156R1086,92,A-,,Not public,AQ*,,,"(37.09024, -95.712891)",,metlife_inc,MetLife,metlife
 "Cisco Systems, Inc.",3329,USA,2013,CSCO US,US17275R1023,100,A,,Public,AQ*,65832,628164,"(37.09024, -95.712891)",,cisco,Cisco,cisco
 "Yum! Brands, Inc.",20917,USA,2013,YUM US,US9884981013,92,B,,Public,AQ*,156510,2377372,"(37.09024, -95.712891)",,yum_brands,yumbrands,yumbrands 
-"Illinois Tool Works, Inc.",8858,USA,2013,ITW US,US4523081093,79,C,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,illinoistoolworks,ITWCareers,itwcareers
+"Illinois Tool Works, Inc.",8858,USA,2013,ITW US,US4523081093,79,C,,Not public,AQ*,,,"(37.09024, -95.712891)",,illinoistoolworks,ITWCareers,itwcareers
 Ford Motor Company,6595,USA,2013,F US,US3453708600,72,C,,Public,AQ*,1698799,3440338,"(37.09024, -95.712891)",,ford,Ford,ford
 Hewlett-Packard,23195,USA,2013,HPQ US,US4282361033,99,A,,Public,AQ*,246000,1643000,"(37.09024, -95.712891)",,hpe,HPE,HewlettPackardEnterprise
 Sysco Corporation,18155,USA,2013,SYY US,US8718291078,66,C,,Public,AQ*,788200,336857,"(37.09024, -95.712891)",,syscofoodie,Sysco,SyscoFoods
 Boeing Company,2017,USA,2013,BA US,US0970231058,96,A-,,Public,AQ*,576000,998000,"(37.09024, -95.712891)",,boeing,Boeing,Boeing
 salesforce.com,16158,USA,2013,CRM US,US79466L3024,90,C,,Public,AQ*,2349.52,29428.55,"(37.09024, -95.712891)",,salesforce,salesforce,salesforce
-BlackRock,1875,USA,2013,BLK US,US09247X1019,79,C,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,blackrock,BlackRock,BlackRock
+BlackRock,1875,USA,2013,BLK US,US09247X1019,79,C,,Not public,AQ*,,,"(37.09024, -95.712891)",,blackrock,BlackRock,BlackRock
 Intel Corporation,9298,USA,2013,INTC US,US4581401001,85,B,,Public,AQ*,794759,2331048,"(37.09024, -95.712891)",,intel,intel,Intel
 Morgan Stanley,12406,USA,2013,MS US,US6174464486,96,A,,Public,AQ*,13757.46,330746.62,"(37.09024, -95.712891)",,morgan.stanley,MorganStanley,morganstanley
 CVS Caremark Corporation,4151,USA,2013,CVS US,US1266501006,92,B,,Public,AQ*,201000,1495000,"(37.09024, -95.712891)",,,,
@@ -71,7 +71,7 @@ Deere & Company,4365,USA,2013,DE US,US2441991054,79,C,,Public,AQ*,440147,1053446
 Devon Energy Corporation,4678,USA,2013,DVN US,US25179M1036,86,B,,Public,AQ*,7596657,1087905,"(37.09024, -95.712891)",,devonenergy,DevonEnergy,DevonEnergy
 Carnival Corporation,2870,United Kingdom,2013,CCL US,PA1436583006,83,C,,Public,AQ*,10819814,57585,"(55.378051, -3.435973)",,carnival,CarnivalPLC,Carnival
 Occidental Petroleum Corporation,13649,USA,2013,OXY US,US6745991058,61,E,,Public,AQ*,14270000,5600000,"(37.09024, -95.712891)",,weareoxy,WeAreOxy,WeAreOccidental 
-Stryker Corporation,17815,USA,2013,SYK US,US8636671013,53,E,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,strykercareers,StrykerComm,strykercareers
+Stryker Corporation,17815,USA,2013,SYK US,US8636671013,53,E,,Not public,AQ*,,,"(37.09024, -95.712891)",,strykercareers,StrykerComm,strykercareers
 General Mills Inc.,7156,USA,2013,GIS US,US3703341046,78,B,,Public,AQ*,259400,737000,"(37.09024, -95.712891)",,generalmills,GeneralMills,GeneralMills
 UnitedHealth Group Inc,19858,USA,2013,UNH US,US91324P1021,98,B,,Public,AQ*,8693.78,104200.46,"(37.09024, -95.712891)",,unitedhealthcare,UnitedHealthGrp,unitedhealthgroup
 Verizon Communications Inc.,20175,USA,2013,VZ US,US92343V1044,84,B,,Public,AQ*,512899.04,5334874.05,"(37.09024, -95.712891)",,verizonnews,VerizonNews,verizon 
@@ -79,10 +79,10 @@ Apache Corporation,804,USA,2013,APA US,US0374111054,70,C,,Public,AQ*,10766000,13
 Pfizer Inc.,14683,USA,2013,PFE US,US7170811035,91,B,,Public,AQ*,1217736,1155762,"(37.09024, -95.712891)",,pfizerinc,pfizer,Pfizer
 "Air Products & Chemicals, Inc.",435,USA,2013,APD US,US0091581068,99,B,,Public,AQ*,14767209,10563030,"(37.09024, -95.712891)",,airproductsglobal,airproducts,airproducts
 Schlumberger Limited,16418,USA,2013,SLB US,AN8068571086,83,C,,Public,AQ*,2200000,550000,"(37.09024, -95.712891)",,schlumberger_official,,
-NIKE Inc.,13279,USA,2013,NKE US,US6541061031,70,D,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,nike,Nike,nike
+NIKE Inc.,13279,USA,2013,NKE US,US6541061031,70,D,,Not public,AQ*,,,"(37.09024, -95.712891)",,nike,Nike,nike
 "Wal-Mart Stores, Inc.",20402,USA,2013,WMT US,US9311421039,94,A-,,Public,AQ*,5605099,15581135,"(37.09024, -95.712891)",,walmart,Walmart,walmart 
 Hess Corporation,8274,USA,2013,HES US,US42809H1077,97,B,,Public,AQ*,7409486,584695,"(37.09024, -95.712891)",,,HessCorporation,HessCorporation
-Charles Schwab Corporation,3133,USA,2013,SCHW US,US8085131055,55,E,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,charlesschwab,CharlesSchwab,CharlesSchwab 
+Charles Schwab Corporation,3133,USA,2013,SCHW US,US8085131055,55,E,,Not public,AQ*,,,"(37.09024, -95.712891)",,charlesschwab,CharlesSchwab,CharlesSchwab 
 "Amgen, Inc.",716,USA,2013,AMGN US,US0311621009,76,B,,Public,AQ*,119968,286679,"(37.09024, -95.712891)",,amgenbiotech,Amgen,amgenbiotech
 Kellogg Company,10056,USA,2013,K US,US4878361082,84,B,,Public,AQ*,536069,671729,"(37.09024, -95.712891)",,kelloggsus,KelloggCompany,KelloggsCareers 
 E.I. du Pont de Nemours and Company,5115,USA,2013,DD US,US2635341090,96,A,,Public,AQ*,10817680,4416220,"(37.09024, -95.712891)",,,DuPont_News,dupontco
@@ -94,7 +94,7 @@ Biogen Idec Inc.,1857,USA,2013,BIIB US,US09062X1037,92,B,,Public,AQ*,46588,39307
 Citigroup Inc.,3398,USA,2013,C US,US1729674242,95,B,,Public,AQ*,35569.83,993687.28,"(37.09024, -95.712891)",,citi,Citi,citi
 International Business Machines (IBM),9284,USA,2013,IBM US,US4592001014,86,B,,Public,AQ*,541584,2208459,"(37.09024, -95.712891)",,ibm,IBM,IBM
 "PPG Industries, Inc.",14926,USA,2013,PPG US,US6935061076,60,D,,Public,AQ*,4053000,1810000,"(37.09024, -95.712891)",,ppgindustries,PPG,ppgindustries
-McDonald's Corporation,11581,USA,2013,MCD US,US5801351017,71,D,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,mcdonaldscorp,McDonaldsCorp,McDonalds
+McDonald's Corporation,11581,USA,2013,MCD US,US5801351017,71,D,,Not public,AQ*,,,"(37.09024, -95.712891)",,mcdonaldscorp,McDonaldsCorp,McDonalds
 "TJX Companies, Inc.",19145,USA,2013,TJX US,US8725401090,98,B,,Public,AQ*,63084,686955,"(37.09024, -95.712891)",,tjxcareers,TJXCareers,TJXCareers
 Starbucks Corporation,17652,USA,2013,SBUX US,US8552441094,86,C,,Public,AQ*,239972,792644,"(37.09024, -95.712891)",,starbucks,Starbucks,Starbucks 
 Freeport-McMoRan Copper & Gold Inc.,23228,USA,2013,FCX US,US35671D8570,86,C,,Public,AQ*,5679367,3985464,"(37.09024, -95.712891)",,freeportfcx,FM_FCX,FreeportFCX
