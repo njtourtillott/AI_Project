@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
@@ -42,11 +43,12 @@ def preprocess_corpus():
     return corpus
 
 
-def develop_model():
+def develop_model(stopwords):
     corpus = preprocess_corpus()
-    train_set, test_set, train_label, test_label = model_selection.train_test_split(corpus["content"], corpus["emission"], test_size=0.2)
+    train_set, test_set, train_label, test_label = model_selection.train_test_split(corpus["content"],
+                                                                                    corpus["emission"], test_size=0.2)
 
-    tfidf_vect = TfidfVectorizer()
+    tfidf_vect = TfidfVectorizer(stop_words=stopwords)
     tfidf_vect.fit(corpus["content"])
     train_set_tfidf = tfidf_vect.transform(train_set)
     test_set_tfidf = tfidf_vect.transform(test_set)
@@ -56,12 +58,34 @@ def develop_model():
     train_predictions = rm.predict(train_set_tfidf)
     test_predictions = rm.predict(test_set_tfidf)
 
-    print(rm.score(train_set_tfidf, train_label))
-    print(rm.score(test_set_tfidf, test_label))
+    train_score = rm.score(train_set_tfidf, train_label)
+    test_score = rm.score(test_set_tfidf, test_label)
+
+    insignificant = []
+    coefs = [abs(c) for c in rm.coef_]
+    mean_co = np.mean(coefs)
+    for i in range(len(rm.coef_)):
+        if coefs[i] < mean_co:
+            insignificant.append(list(tfidf_vect.vocabulary_.keys())[i])
+    return insignificant, train_score, test_score
 
 
 def main():
-    develop_model()
+    insignificant = None
+    scores = []
+    for i in range(14):
+        insignificant, train, test = develop_model(insignificant)
+        score = 1 / (((1 - train) + (1 - test)) / 2)
+        scores.append(score)
+        print(i)
+        print(train)
+        print(test)
+    scores = [(x - min(scores))/(max(scores) - min(scores)) for x in scores]
+
+    plt.plot(scores)
+    plt.xlabel("Iterations")
+    plt.ylabel("Score")
+    plt.show()
 
 
 if __name__ == '__main__':
