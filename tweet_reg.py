@@ -1,14 +1,11 @@
-import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
-import numpy as np
 import pandas as pd
 import re
 from sklearn import model_selection, linear_model
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import LabelEncoder
+from sklearn.decomposition import TruncatedSVD
 import string
 
 
@@ -43,49 +40,39 @@ def preprocess_corpus():
     return corpus
 
 
-def develop_model(stopwords):
+def generate_sets(test_size):
     corpus = preprocess_corpus()
     train_set, test_set, train_label, test_label = model_selection.train_test_split(corpus["content"],
-                                                                                    corpus["emission"], test_size=0.2)
-
-    tfidf_vect = TfidfVectorizer(stop_words=stopwords)
+                                                                                    corpus["emission"], test_size=test_size)
+    tfidf_vect = TfidfVectorizer()
     tfidf_vect.fit(corpus["content"])
     train_set_tfidf = tfidf_vect.transform(train_set)
     test_set_tfidf = tfidf_vect.transform(test_set)
+    return train_set_tfidf, test_set_tfidf, train_label, test_label
+
+
+def develop_model(n, train_set, test_set, train_label, test_label):
+    dr = TruncatedSVD(n_components=n)
+
+    train_set = dr.fit_transform(train_set)
+    test_set = dr.transform(test_set)
 
     rm = linear_model.LinearRegression()
-    rm.fit(train_set_tfidf, train_label)
-    train_predictions = rm.predict(train_set_tfidf)
-    test_predictions = rm.predict(test_set_tfidf)
+    rm.fit(train_set, train_label)
+    train_predictions = rm.predict(train_set)
+    test_predictions = rm.predict(test_set)
 
-    train_score = rm.score(train_set_tfidf, train_label)
-    test_score = rm.score(test_set_tfidf, test_label)
+    train_score = rm.score(train_set, train_label)
+    test_score = rm.score(test_set, test_label)
 
-    insignificant = []
-    coefs = [abs(c) for c in rm.coef_]
-    mean_co = np.mean(coefs)
-    for i in range(len(rm.coef_)):
-        if coefs[i] < mean_co:
-            insignificant.append(list(tfidf_vect.vocabulary_.keys())[i])
-    return insignificant, train_score, test_score
+    return train_score, test_score
 
 
 def main():
-    insignificant = None
-    scores = []
-    for i in range(14):
-        insignificant, train, test = develop_model(insignificant)
-        score = 1 / (((1 - train) + (1 - test)) / 2)
-        scores.append(score)
-        print(i)
-        print(train)
-        print(test)
-    scores = [(x - min(scores))/(max(scores) - min(scores)) for x in scores]
-
-    plt.plot(scores)
-    plt.xlabel("Iterations")
-    plt.ylabel("Score")
-    plt.show()
+    train_set, test_set, train_label, test_label = generate_sets(0.2)
+    train, test = develop_model(4000, train_set, test_set, train_label, test_label)
+    print(train)
+    print(test)
 
 
 if __name__ == '__main__':
