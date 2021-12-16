@@ -1,0 +1,118 @@
+Company.Name,Account.Number,Country,Reporting.Year,Ticker.Symbol,ISIN,Disclosure.Score,Performance.Band,Parent.Account,Permission,Response.Status,Scope.1..metric.tonnes.CO2e.,Scope.2..metric.tonnes.CO2e.,Country.Location,,Instagram,Twitter,Facebook
+CSX Corporation,4120,USA,2013,CSX US,US1264081035,95,A,,Public,AQ*,5268905,300170,"(37.09024, -95.712891)",,officialcsx,CSX,OfficialCSX
+3M Company,285,USA,2013,MMM US,US88579Y1010,70,D,,Public,AQ*,4540000,2230000,"(37.09024, -95.712891)",,3m,3M,3M
+"Prudential Financial, Inc.",15306,USA,2013,PRU US,US7443201022,63,C,,Public,AQ*,5090,70613,"(37.09024, -95.712891)",,prudential,Prudential,Prudential
+"The Home Depot, Inc.",8526,USA,2013,HD US,US4370761029,99,A-,,Public,AQ*,250224,2529646,"(37.09024, -95.712891)",,homedepot,HomeDepot,homedepot
+Las Vegas Sands Corporation,10494,USA,2013,LVS US,US5178341070,98,A-,,Public,AQ*,225157,821527,"(37.09024, -95.712891)",,las_vegas_sands,LasVegasSands,lasvegassands
+Bank of America,1452,USA,2013,BAC US,US0605051046,98,A,,Public,AQ*,116666,1421829,"(37.09024, -95.712891)",,bankofamerica,BankofAmerica,BankofAmerica
+"American International Group, Inc.",699,USA,2013,AIG US,US0268747849,62,D,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,aigdirect,AIGinsurance,AIGInsurance
+Mondelez International Inc,42037,USA,2013,MDLZ US,,91,B,,Public,AQ*,1075761,954755,"(37.09024, -95.712891)",,mondelez_international,MDLZ,mondelezinternational
+FedEx Corporation,6287,USA,2013,FDX US,US31428X1063,80,B,,Public,AQ*,14602697,959109,"(37.09024, -95.712891)",,fedex,FedEx,FedEx
+Union Pacific Corporation,19845,USA,2013,UNP US,US9078181081,98,B,,Public,AQ*,11595509,407176,"(37.09024, -95.712891)",,uprr,UnionPacific,unionpacific
+Duke Energy Corporation,5052,USA,2013,DUK US,US26441C2044,67,C,,Public,AQ*,123430000,NA,"(37.09024, -95.712891)",,duke_energy,DukeEnergy,Duke Energy
+"Franklin Resources, Inc.",6684,USA,2013,BEN US,US3546131018,86,C,,Public,AQ*,8175,29552,"(37.09024, -95.712891)",,franklintempleton,FTI_Global,franklintempleton
+"Medtronic, Inc.",11651,USA,2013,MDT US,US5850551061,61,D,,Public,AQ*,31460,170685,"(37.09024, -95.712891)",,medtronic,Medtronic,Medtronic
+Kimberly-Clark Corporation,10148,USA,2013,KMB US,US4943681035,72,C,,Public,AQ*,2461675,2967804,"(37.09024, -95.712891)",,kccorp,KCCorp,KimberlyClarkCorp
+Thermo Fisher Scientific Inc.,19016,USA,2013,TMO US,US8835561023,75,D,,Public,AQ*,64863,297992,"(37.09024, -95.712891)",,thermofisherscientific,thermofisher,thermofisher
+Norfolk Southern Corp.,13425,USA,2013,NSC US,US6558441084,90,B,,Public,AQ*,4925238,252854,"(37.09024, -95.712891)",,norfolksouthern,nscorp,norfolksouthern
+Chevron Corporation,3191,USA,2013,CVX US,US1667641005,97,A-,,Public,AQ*,58559220,3849319,"(37.09024, -95.712891)",,chevron,Chevron,Chevron
+Twenty-First Century Fox,13126,USA,2013,FOX US,,97,A-,,Public,AQ*,62360,376022,"(37.09024, -95.712891)",,,,
+Newmont Mining Corporation,13117,USA,2013,NEM US,US6516391066,92,B,,Public,AQ*,4016150,1182740,"(37.09024, -95.712891)",,,NewmontCorp,NewmontCorporation
+Google Inc.,7616,USA,2013,GOOG US,US38259P5089,93,B,,Public,AQ*,37187,1149988,"(37.09024, -95.712891)",,google,Google,Google
+Microsoft Corporation,11930,USA,2013,MSFT US,US5949181045,96,A,,Public,AQ*,48516,1207419,"(37.09024, -95.712891)",,microsoft,Microsoft,Microsoft
+"Adobe Systems, Inc.",333,USA,2013,ADBE US,US00724F1012,97,A,,Public,AQ*,2744,22995,"(37.09024, -95.712891)",,adobe,Adobe,Adobe
+The Coca-Cola Company,3564,USA,2013,KO US,US1912161007,90,A-,,Public,AQ*,2551626,1138377,"(37.09024, -95.712891)",,thecocacolaco,CocaColaCo,TheCocaColaCo
+Bristol-Myers Squibb,2191,USA,2013,BMY US,US1101221083,96,B,,Public,AQ*,269734,262565,"(37.09024, -95.712891)",,bristolmyerssquibb,bmsnews,BristolMyersSquibb
+State Street Corporation,17690,USA,2013,STT US,US8574771031,87,C,,Public,AQ*,10009.07,98756,"(37.09024, -95.712891)",,,StateStreet,StateStreetCorp
+"Lowe's Companies, Inc.",11017,USA,2013,LOW US,US5486611073,85,D,,Public,AQ*,303721,2552740,"(37.09024, -95.712891)",,loweshomeimprovement,Lowes,lowes
+General Electric Company,7166,USA,2013,GE US,US3696041033,72,C,,Public,AQ*,1970000,2905000,"(37.09024, -95.712891)",,generalelectric,generalelectric,GE
+Oracle Corporation,14013,USA,2013,ORCL US,US68389X1054,79,C,,Public,AQ*,16481,440773,"(37.09024, -95.712891)",,oracle,Oracle,Oracle
+"Marsh & McLennan Companies, Inc.",11383,USA,2013,MMC US,US5717481023,98,B,,Public,AQ*,3429.21,97423.43,"(37.09024, -95.712891)",,marshmclennan,MarshMcLennan,
+Dow Chemical Company,4826,USA,2013,DOW US,US2605431038,90,B,,Public,AQ*,27429000,8403000,"(37.09024, -95.712891)",,dow_official,DowNewsroom,dow
+JPMorgan Chase & Co.,9871,USA,2013,JPM US,US46625H1005,91,B,,Public,AQ*,83343,1219748,"(37.09024, -95.712891)",,,,jpmorganchase
+Colgate Palmolive Company,3551,USA,2013,CL US,US1941621039,99,B,,Public,AQ*,232574,435061,"(37.09024, -95.712891)",,colgatepalmoliveco,CP_News,
+Honeywell International Inc.,8553,USA,2013,HON US,US4385161066,74,B,,Public,AQ*,5532844,1756275,"(37.09024, -95.712891)",,honeywell,honeywell,Honeywell 
+Halliburton Company,8027,USA,2013,HAL US,US4062161017,65,D,,Public,AQ*,4211808,839363,"(37.09024, -95.712891)",,halliburton,Halliburton,halliburton 
+ConocoPhillips,3751,USA,2013,COP US,US20825C1045,83,B,,Public,AQ*,24171000,1638000,"(37.09024, -95.712891)",,conocophillips,conocophillips,conocophillips
+AT&T Inc.,1113,USA,2013,T US,US00206R1023,96,B,,Public,AQ*,948441,7894626,"(37.09024, -95.712891)",,att,ATT,ATT
+Abbott Laboratories,64,USA,2013,ABT US,US0028241000,84,B,,Public,AQ*,470781,537821,"(37.09024, -95.712891)",,abbottglobal,AbbottNews,Abbott
+Goldman Sachs Group Inc.,7599,USA,2013,GS US,US38141G1040,98,A,,Public,AQ*,14559,276815,"(37.09024, -95.712891)",,goldmansachs,GoldmanSachs,goldmansachs
+Eli Lilly & Co.,5377,USA,2013,LLY US,US5324571083,86,B,,Public,AQ*,415040,1160941,"(37.09024, -95.712891)",,elilillyco,LillyPad,elilillyandco 
+Eaton Corporation,5194,USA,2013,ETN US,IE00B8KQN827,100,A-,,Public,AQ*,105382,637346,"(37.09024, -95.712891)",,eatoncorporationofficial,eatoncorp,eatoncorporation
+Baxter International Inc.,1574,USA,2013,BAX US,US0718131099,82,B,,Public,AQ*,345000,445000,"(37.09024, -95.712891)",,,baxter_intl,BaxterInternationalInc
+Exxon Mobil Corporation,6136,USA,2013,XOM US,US30231G1022,80,B,,Public,AQ*,1.32E+08,1.40E+07,"(37.09024, -95.712891)",,exxonmobil,exxonmobil,ExxonMobil
+Allstate Corporation,582,USA,2013,ALL US,US0200021014,96,B,,Public,AQ*,40796,150401,"(37.09024, -95.712891)",,allstate,Allstate,Allstate
+Target Corporation,18320,USA,2013,TGT US,US87612E1064,91,B,,Public,AQ*,527047,2489866,"(37.09024, -95.712891)",,target,Target,target 
+"American Electric Power Company, Inc.",689,USA,2013,AEP US,US0255371017,68,D,,Public,AQ*,121927400,NA,"(37.09024, -95.712891)",,aepnews,AEPnews,americanelectricpower 
+"Automatic Data Processing, Inc.",1203,USA,2013,ADP US,US0530151036,83,C,,Public,AQ*,15500,157100,"(37.09024, -95.712891)",,adp,ADP,AutomaticDataProcessing 
+"MetLife, Inc.",11796,USA,2013,MET US,US59156R1086,92,A-,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,metlife_inc,MetLife,metlife
+"Cisco Systems, Inc.",3329,USA,2013,CSCO US,US17275R1023,100,A,,Public,AQ*,65832,628164,"(37.09024, -95.712891)",,cisco,Cisco,cisco
+"Yum! Brands, Inc.",20917,USA,2013,YUM US,US9884981013,92,B,,Public,AQ*,156510,2377372,"(37.09024, -95.712891)",,yum_brands,yumbrands,yumbrands 
+"Illinois Tool Works, Inc.",8858,USA,2013,ITW US,US4523081093,79,C,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,illinoistoolworks,ITWCareers,itwcareers
+Ford Motor Company,6595,USA,2013,F US,US3453708600,72,C,,Public,AQ*,1698799,3440338,"(37.09024, -95.712891)",,ford,Ford,ford
+Hewlett-Packard,23195,USA,2013,HPQ US,US4282361033,99,A,,Public,AQ*,246000,1643000,"(37.09024, -95.712891)",,hpe,HPE,HewlettPackardEnterprise
+Sysco Corporation,18155,USA,2013,SYY US,US8718291078,66,C,,Public,AQ*,788200,336857,"(37.09024, -95.712891)",,syscofoodie,Sysco,SyscoFoods
+Boeing Company,2017,USA,2013,BA US,US0970231058,96,A-,,Public,AQ*,576000,998000,"(37.09024, -95.712891)",,boeing,Boeing,Boeing
+salesforce.com,16158,USA,2013,CRM US,US79466L3024,90,C,,Public,AQ*,2349.52,29428.55,"(37.09024, -95.712891)",,salesforce,salesforce,salesforce
+BlackRock,1875,USA,2013,BLK US,US09247X1019,79,C,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,blackrock,BlackRock,BlackRock
+Intel Corporation,9298,USA,2013,INTC US,US4581401001,85,B,,Public,AQ*,794759,2331048,"(37.09024, -95.712891)",,intel,intel,Intel
+Morgan Stanley,12406,USA,2013,MS US,US6174464486,96,A,,Public,AQ*,13757.46,330746.62,"(37.09024, -95.712891)",,morgan.stanley,MorganStanley,morganstanley
+CVS Caremark Corporation,4151,USA,2013,CVS US,US1266501006,92,B,,Public,AQ*,201000,1495000,"(37.09024, -95.712891)",,,,
+Walt Disney Company,20384,USA,2013,DIS US,US2546871060,78,C,,Public,AQ*,867353,899027,"(37.09024, -95.712891)",,disney,WaltDisneyCo,Disney
+Simon Property Group,17069,USA,2013,SPG US,US8288061091,98,B,,Public,AQ*,21854,496006,"(37.09024, -95.712891)",,shopsimon,ShopSimon,shopsimon.us
+Accenture,21318,Ireland,2013,ACN US,IE00B4BNMY34,92,B,,Public,AQ*,9383,224615,"(53.41291, -8.24389)",,accentureus,Accenture_US,AccentureUS
+The Chubb Corporation,3293,USA,2013,CB US,US1712321017,52,D,,Public,AQ*,1129,10133,"(37.09024, -95.712891)",,chubbglobal,Chubb,ChubbInsurance
+Visa,22867,USA,2013,V US,US92826C8394,61,D,,Public,AQ*,8151,68313,"(37.09024, -95.712891)",,visa_us,Visa,VisaUnitedStates
+eBay Inc.,5197,USA,2013,EBAY US,US2786421030,75,D,,Public,AQ*,14374,225952,"(37.09024, -95.712891)",,ebay.inc,eBay,ebay
+Johnson Controls,9831,USA,2013,JCI US,US4783661071,94,A-,,Public,AQ*,866181,1465658,"(37.09024, -95.712891)",,johnsoncontrols,johnsoncontrols,JohnsonControls
+Cognizant Technology Solutions Corp.,3588,USA,2013,CTSH US,US1924461023,64,C,,Public,AQ*,46934,137460,"(37.09024, -95.712891)",,cognizant,Cognizant,Cognizant
+Deere & Company,4365,USA,2013,DE US,US2441991054,79,C,,Public,AQ*,440147,1053446,"(37.09024, -95.712891)",,johndeere,JohnDeere,JohnDeereUSCA
+"Altria Group, Inc.",628,USA,2013,MO US,US02209S1033,75,C,,Public,AQ*,283926,236169,"(37.09024, -95.712891)",,tponaltriatobacco,AltriaNews,AltriaNews
+Devon Energy Corporation,4678,USA,2013,DVN US,US25179M1036,86,B,,Public,AQ*,7596657,1087905,"(37.09024, -95.712891)",,devonenergy,DevonEnergy,DevonEnergy
+Carnival Corporation,2870,United Kingdom,2013,CCL US,PA1436583006,83,C,,Public,AQ*,10819814,57585,"(55.378051, -3.435973)",,carnival,CarnivalPLC,Carnival
+Occidental Petroleum Corporation,13649,USA,2013,OXY US,US6745991058,61,E,,Public,AQ*,14270000,5600000,"(37.09024, -95.712891)",,weareoxy,WeAreOxy,WeAreOccidental 
+Stryker Corporation,17815,USA,2013,SYK US,US8636671013,53,E,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,strykercareers,StrykerComm,strykercareers
+General Mills Inc.,7156,USA,2013,GIS US,US3703341046,78,B,,Public,AQ*,259400,737000,"(37.09024, -95.712891)",,generalmills,GeneralMills,GeneralMills
+UnitedHealth Group Inc,19858,USA,2013,UNH US,US91324P1021,98,B,,Public,AQ*,8693.78,104200.46,"(37.09024, -95.712891)",,unitedhealthcare,UnitedHealthGrp,unitedhealthgroup
+Verizon Communications Inc.,20175,USA,2013,VZ US,US92343V1044,84,B,,Public,AQ*,512899.04,5334874.05,"(37.09024, -95.712891)",,verizonnews,VerizonNews,verizon 
+Apache Corporation,804,USA,2013,APA US,US0374111054,70,C,,Public,AQ*,10766000,1314000,"(37.09024, -95.712891)",,apachecorporation,APA_Corp,ApacheCorporation 
+Pfizer Inc.,14683,USA,2013,PFE US,US7170811035,91,B,,Public,AQ*,1217736,1155762,"(37.09024, -95.712891)",,pfizerinc,pfizer,Pfizer
+"Air Products & Chemicals, Inc.",435,USA,2013,APD US,US0091581068,99,B,,Public,AQ*,14767209,10563030,"(37.09024, -95.712891)",,airproductsglobal,airproducts,airproducts
+Schlumberger Limited,16418,USA,2013,SLB US,AN8068571086,83,C,,Public,AQ*,2200000,550000,"(37.09024, -95.712891)",,schlumberger_official,,
+NIKE Inc.,13279,USA,2013,NKE US,US6541061031,70,D,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,nike,Nike,nike
+"Wal-Mart Stores, Inc.",20402,USA,2013,WMT US,US9311421039,94,A-,,Public,AQ*,5605099,15581135,"(37.09024, -95.712891)",,walmart,Walmart,walmart 
+Hess Corporation,8274,USA,2013,HES US,US42809H1077,97,B,,Public,AQ*,7409486,584695,"(37.09024, -95.712891)",,,HessCorporation,HessCorporation
+Charles Schwab Corporation,3133,USA,2013,SCHW US,US8085131055,55,E,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,charlesschwab,CharlesSchwab,CharlesSchwab 
+"Amgen, Inc.",716,USA,2013,AMGN US,US0311621009,76,B,,Public,AQ*,119968,286679,"(37.09024, -95.712891)",,amgenbiotech,Amgen,amgenbiotech
+Kellogg Company,10056,USA,2013,K US,US4878361082,84,B,,Public,AQ*,536069,671729,"(37.09024, -95.712891)",,kelloggsus,KelloggCompany,KelloggsCareers 
+E.I. du Pont de Nemours and Company,5115,USA,2013,DD US,US2635341090,96,A,,Public,AQ*,10817680,4416220,"(37.09024, -95.712891)",,,DuPont_News,dupontco
+Cummins Inc.,4136,USA,2013,CMI US,US2310211063,91,B,,Public,AQ*,232052,409890,"(37.09024, -95.712891)",,cummins,Cummins,Cummins
+American Express,692,USA,2013,AXP US,US0258161092,87,C,,Public,AQ*,23371,142667,"(37.09024, -95.712891)",,americanexpress,AmericanExpress,AmericanExpressUS
+AFLAC Incorporated,362,USA,2013,AFL US,US0010551028,85,B,,Public,AQ*,3884,18536,"(37.09024, -95.712891)",,aflacduck,aflac,aflacduck
+Biogen Idec Inc.,1857,USA,2013,BIIB US,US09062X1037,92,B,,Public,AQ*,46588,39307,"(37.09024, -95.712891)",,,biogen,Biogen
+"Merck & Co., Inc.",11765,USA,2013,MRK US,US58933Y1055,87,B,,Public,AQ*,1053000,927000,"(37.09024, -95.712891)",,merck,Merck,MerckInvents
+Citigroup Inc.,3398,USA,2013,C US,US1729674242,95,B,,Public,AQ*,35569.83,993687.28,"(37.09024, -95.712891)",,citi,Citi,citi
+International Business Machines (IBM),9284,USA,2013,IBM US,US4592001014,86,B,,Public,AQ*,541584,2208459,"(37.09024, -95.712891)",,ibm,IBM,IBM
+"PPG Industries, Inc.",14926,USA,2013,PPG US,US6935061076,60,D,,Public,AQ*,4053000,1810000,"(37.09024, -95.712891)",,ppgindustries,PPG,ppgindustries
+McDonald's Corporation,11581,USA,2013,MCD US,US5801351017,71,D,,Not public,AQ*,NA,NA,"(37.09024, -95.712891)",,mcdonaldscorp,McDonaldsCorp,McDonalds
+"TJX Companies, Inc.",19145,USA,2013,TJX US,US8725401090,98,B,,Public,AQ*,63084,686955,"(37.09024, -95.712891)",,tjxcareers,TJXCareers,TJXCareers
+Starbucks Corporation,17652,USA,2013,SBUX US,US8552441094,86,C,,Public,AQ*,239972,792644,"(37.09024, -95.712891)",,starbucks,Starbucks,Starbucks 
+Freeport-McMoRan Copper & Gold Inc.,23228,USA,2013,FCX US,US35671D8570,86,C,,Public,AQ*,5679367,3985464,"(37.09024, -95.712891)",,freeportfcx,FM_FCX,FreeportFCX
+Lockheed Martin Corporation,10820,USA,2013,LMT US,US5398301094,91,A,,Public,AQ*,249491,985006,"(37.09024, -95.712891)",,lockheedmartin,LockheedMartin,lockheedmartin
+"PNC Financial Services Group, Inc.",14830,USA,2013,PNC US,US6934751057,89,B,,Public,AQ*,47606,398414,"(37.09024, -95.712891)",,pncbank,PNCBank,pncbank 
+QUALCOMM Inc.,15419,USA,2013,QCOM US,US7475251036,56,D,,Public,AQ*,64782,49216,"(37.09024, -95.712891)",,qualcomm,Qualcomm,Qualcomm
+BNY Mellon,1464,USA,2013,BK US,US0640581007,100,A,,Public,AQ*,9513,208926,"(37.09024, -95.712891)",,bnymellon,BNYMellon,bnymellon
+Texas Instruments Incorporated,18640,USA,2013,TXN US,US8825081040,64,D,,Public,AQ*,827274.44,1588465.81,"(37.09024, -95.712891)",,txinstruments,TXInstruments,texasinstruments
+Capital One Financial,2695,USA,2013,COF US,US14040H1059,71,C,,Public,AQ*,14501,194433,"(37.09024, -95.712891)",,capitalone,CapitalOne,capitalone
+UPS,19898,USA,2013,UPS US,US9113121068,99,A-,,Public,AQ*,11715635,823212,"(37.09024, -95.712891)",,ups,UPS,ups
+"PepsiCo, Inc.",14605,USA,2013,PEP US,US7134481081,94,B,,Public,AQ*,3854784,1928490,"(37.09024, -95.712891)",,pepsico,PepsiCo,PepsiCo
+Corning Incorporated,23254,USA,2013,GLW US,US2193501051,54,D,,Public,AQ*,383729,1129330,"(37.09024, -95.712891)",,,Corning,corningincorporated 
+Ecolab Inc.,5154,USA,2013,ECL US,US2788651006,98,A,,Public,AQ*,336258,199296,"(37.09024, -95.712891)",,ecolab_inc,Ecolab,ecolab
+General Motors Company,7164,USA,2013,GM US,US37045V1008,100,A-,,Public,AQ*,2454755,5531380,"(37.09024, -95.712891)",,generalmotors,GM,generalmotors
+Exelon Corporation,6113,USA,2013,EXC US,US30161N1019,98,A,,Public,AQ*,26038890,5691542,"(37.09024, -95.712891)",,exeloncareers,Exelon,Exelon
+"The Travelers Companies, Inc.",19377,USA,2013,TRV US,US89417E1091,63,C,,Public,AQ*,35633,48175,"(37.09024, -95.712891)",,travelersinsurance,Travelers,travelers
+Johnson & Johnson,9829,USA,2013,JNJ US,US4781601046,98,A-,,Public,AQ*,329556,853700,"(37.09024, -95.712891)",,jnj,JNJNews,jnj
+Wells Fargo & Company,20575,USA,2013,WFC US,US9497461015,96,A,,Public,AQ*,93904,1333372,"(37.09024, -95.712891)",,wellsfargo,WellsFargo,wellsfargo
+Philip Morris International,14712,USA,2013,PM US,US7181721090,97,B,,Public,AQ*,441953,433892,"(37.09024, -95.712891)",,,InsidePMI,InsidePMI 
+Ventas Inc,22873,USA,2013,VTR US,US92276F1003,85,C,,Public,AQ*,43381,314379,"(37.09024, -95.712891)",,,VentasREIT,VentasREIT
+U.S. Bancorp,19593,USA,2013,USB US,US9029733048,78,C,,Public,AQ*,38055,370672,"(37.09024, -95.712891)",,usbank,usbank,usbank
